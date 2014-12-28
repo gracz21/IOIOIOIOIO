@@ -1,0 +1,15 @@
+1. Kontrola czasu
+Do kontroli czasu służy zegar umieszczony w prawym gównym rogu okna. By rozpocząć odliczanie czasu, należy wcisnąć guzik 'play' (trójkąt), do zapauzowania odliczania guzik 'pauza' (dwa pionowe prostokąty). Guzik 'stop' (kwadrat) zeruje czas.
+Zegar dodatkowo zmienia swój kolor, gdy czas przeznaczony na turę dobiega końca.
+
+2. Rozpoczęcie nowej rundy
+Aby rozpocząć nową rundę, należy wcisnąć przycisk "New round". W zakładce "Games" zostanie dodana nowa runda. W zakładce "Current Games" pojawią się wyniki nowej rundy z możliwością ich modyfikacji. Wyniki poprzedniej rundy zostaną wyświetlone w zakładce "Results".
+
+3. Dodawanie drużyn
+Aby dodać drużynę, kliknij przycisk "Add". W tym momencie pojawi się okienko (nr. ???) edycji i dodawania drużyn. Pozwala ono na wprowadzenie danych (imiona, nazwiska, nicku, frakcji) członków drużyny. Aby zaakceptować wprowadzone zmiany, należy kliknąć przycisk "Accept".
+
+4. Prezentacja drużyn i modyfikacja
+Aby zobaczyć informacje na temat danej drużyny, należy jednokrotnie kliknąć na nazwę drużyny. Dane wybranej drużyny pojawią się w panelu po prawej stronie. Aby zmodyfikować dane dotyczące wybranej drużyny, należy dwukrotnie kliknąć na nazwę drużyny. Pojawi się wtedy okienko (nr. ???) edycji  drużyny, umożlliwiające modyfikację dotychczas wprowadzonych danych. Aby zaakceptować zmiany, należy kliknąć przycisk "Accept".
+
+5.Pokazywanie paringów
+Po naciśnięciu guzika show parings w oknie 'current games', wyświetli się nowe okno pokazujące graczy z obu drużyn wraz z ich zdjęciami/awatarami.
